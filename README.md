@@ -1,4 +1,4 @@
-Title- SQL COURSE TURORIAL
+Title- SQL COURSE TUTORIAL
 
 I create a SQL course model and in this I explain all the topics and give the learning resourses link And as well as practice queries. 
 I create different-2 files for all type of question.
