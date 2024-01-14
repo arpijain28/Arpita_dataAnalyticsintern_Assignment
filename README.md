@@ -8,3 +8,8 @@ these questions are very help full at the point of interview so please check all
 Solve codingNinjas SQL problems
 Go to HackerRank & solve SQL, use filter Skills= SQL (Basic)
 Go to LeetCode & solve SQL
+Portnov Computer School "SQL Tutorial for beginners” This is a mini-course (~4 hours in total) which is said to be quite good. Links:
+Video 1: [https://www.youtube.com/watch?v=xaRrTBmMp30](https://youtu.be/xaRrTBmMp30?si=LiZBxz2ysHOV9f5h)
+Video 2: https://www.youtube.com/watch?v=1sMR2ApQVvw
+Video 3: https://www.youtube.com/watch?v=deegPjmasq8
+Video 4: https://www.youtube.com/watch?v=vHE-EeLaYsI
